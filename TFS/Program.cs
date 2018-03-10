@@ -13,6 +13,7 @@ namespace TFS
          {
             Console.WriteLine(i);
             i = i - 2;
+
          }
       }
    }
